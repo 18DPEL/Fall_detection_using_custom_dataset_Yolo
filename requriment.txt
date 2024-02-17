@@ -1,0 +1,4 @@
+nump ==1.26.3 to 1.26.4
+opencv-python==4.8.1.78 to 4.9.0.80
+ultralytics==8.1.10 to 8.1.15
+model link= go and search on kaggle add dataset section ("fall-detection-custom-model")
